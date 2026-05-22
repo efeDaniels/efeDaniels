@@ -36,7 +36,11 @@ I'm a Web3 developer focused on building decentralized applications and smart co
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=efedaniels&show_icons=true&theme=nightowl&count_private=true" alt="Efe Daniels' GitHub stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=efedaniels&theme=nord&no-frame=true&column=7&margin-w=8" alt="Efe Daniels' GitHub trophies"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=efedaniels&theme=nightowl&hide_border=true" alt="Efe Daniels' GitHub streak"/>
 </p>
 
 ### Contact
